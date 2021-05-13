@@ -1,8 +1,6 @@
 ## ☁️ A simple one page marketing site starter for SaaS companies and indie hackers.
 
-[Live Demo: https://gatsby-starter-saas-marketing.netlify.com/ ](https://gatsby-starter-saas-marketing.netlify.com/)
-
-**If you find this starter helpful follow me on <a href="https://www.indiehackers.com/keeg" target="blank">Indie Hackers</a>.**
+Based on the Gatsby v2 starter by Keegan Burkett: https://github.com/keegn/gatsby-starter-saas-marketing
 
 <img src="src/images/gatsby-starter-saas-marketing-full-page.png?raw=true" width="600" alt="Gatsby Starter Saas Marketing Full Screen Image"/>
 
@@ -26,18 +24,13 @@ install the starter locally:
 gatsby new gatsby-starter-saas-marketing https://github.com/keegn/gatsby-starter-saas-marketing
 ```
 
-install dependencies:
-
-```sh
-yarn install
-```
-
 start the development server:
 
 ```sh
 gatsby develop
 ```
 
+#### Other Helpful Commands
 At the project root, compile your application for deployment:
 
 ```sh
